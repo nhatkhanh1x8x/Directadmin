@@ -24,7 +24,7 @@ Tiếp theo, chạy các lệnh sau đây để thiết lập các phiên bản 
 ./build set php4_mode suphp
 ```
 
-![](./images/php.png)
+![](./image/php.png)
 
 ## **Bước 3 :** Biên dịch lại PHP và viết lại cấu hình
 
@@ -41,16 +41,15 @@ Bây giờ bạn có thể chọn một phiên bản PHP cho website của bạn
 
 Để thao tác chúng ta truy cập vào trong giao diện người dùng (User Level) trên control DirectAdmin Click chọn “ Domain Setup “ -> Tiếp theo Click vào domain đang cần thay đổi phiên bản PHP
 
-![](./images/php1.png)
-![](./images/php2.png)
+![](./image/php1.png)
+![](./image/php2.png)
 
 Sau đó trong phần “ PHP Version Selector “  chọn đúng phiên bản PHP cần chạy -> Click “ Save “ để lưu lại
 
-![](./images/php3.png)
+![](./image/php3.png)
 
 ---
 <a href="https://kb.nhanhoa.com/display/NHKB01/DirectAdmin" target="_blank">kb.nhanhoa.com</a>
-<a href="https://nhanhoa.com" target="_blank">tại đây</a>
 
 Khi cần hỗ trợ xin liên hệ với chúng tôi:
 
