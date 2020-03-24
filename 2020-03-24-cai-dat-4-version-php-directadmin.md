@@ -49,7 +49,8 @@ Sau đó trong phần “ PHP Version Selector “  chọn đúng phiên bản P
 ![](./images/php3.png)
 
 ---
-<a href="https://kb.nhanhoa.com/display/NHKB01/DirectAdmin target="_blank">kb.nhanhoa.com</a>
+<a href="https://kb.nhanhoa.com/display/NHKB01/DirectAdmin" target="_blank">kb.nhanhoa.com</a>
+<a href="https://nhanhoa.com" target="_blank">tại đây</a>
 
 Khi cần hỗ trợ xin liên hệ với chúng tôi:
 
