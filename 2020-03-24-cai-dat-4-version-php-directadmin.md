@@ -1,6 +1,6 @@
 # **Cài đặt 4 Version PHP trên VPS sử dụng control Directadmin**
 
-Kể từ phiên bản 1.56.0 thì Directadmin đã hỗ trợ cùng lúc 4 phiên bản PHP (Với phiên bản Directadmin từ 1.50 đến 1.55 thì chỉ hỗ trợ tối đã 2 phiên bản PHP )
+Kể từ phiên bản 1.56.0 thì Directadmin đã hỗ trợ cùng lúc 4 phiên bản PHP (Với phiên bản Directadmin từ `1.50` đến `1.55` thì chỉ hỗ trợ tối đã 2 phiên bản PHP )
 
 ## **Bước 1 :** Cập nhật CustomBuild
 
@@ -37,14 +37,14 @@ Tiếp theo, chạy các lệnh sau đây để thiết lập các phiên bản 
 
 ## **Bước 4 :** Thiết lập các phiên bản PHP trên Directadmin
 
-Bây giờ bạn có thể chọn một phiên bản PHP cho website của bạn. Tất cả các trang web hiện đang chạy trên  DirectAdmin của bạn sẽ sử dụng mặc định giá trị đặt cho php1_release (Tức phiên bản PHP 5.6)
+Bây giờ bạn có thể chọn một phiên bản PHP cho website của bạn. Tất cả các trang web hiện đang chạy trên  DirectAdmin của bạn sẽ sử dụng mặc định giá trị đặt cho `php1_release` (Tức phiên bản PHP 5.6)
 
-Để thao tác chúng ta truy cập vào trong giao diện người dùng (User Level) trên control DirectAdmin Click chọn “ Domain Setup “ -> Tiếp theo Click vào domain đang cần thay đổi phiên bản PHP
+Để thao tác chúng ta truy cập vào trong giao diện người dùng (User Level) trên control DirectAdmin Click chọn `**Domain Setup**` -> Tiếp theo Click vào domain đang cần thay đổi phiên bản PHP
 
 ![](./image/php1.png)
 ![](./image/php2.png)
 
-Sau đó trong phần “ PHP Version Selector “  chọn đúng phiên bản PHP cần chạy -> Click “ Save “ để lưu lại
+Sau đó trong phần `**PHP Version Selector**`  chọn đúng phiên bản PHP cần chạy -> `**Click Save**` để lưu lại
 
 ![](./image/php3.png)
 
