@@ -4,7 +4,7 @@ Kể từ phiên bản 1.56.0 thì Directadmin đã hỗ trợ cùng lúc 4 phi�
 
 ## **Bước 1 :** Cập nhật CustomBuild
 
-```
+```sh
 cd /usr/local/directadmin/custombuild
 ./build update
 ```
@@ -13,7 +13,7 @@ cd /usr/local/directadmin/custombuild
 
 Tiếp theo, chạy các lệnh sau đây để thiết lập các phiên bản (Bạn có thể thay đổi các phiên bản PHP tương ứng theo nhu cầu của các bạn bao gồm: 5.3, 5.4, 5.5, 5.6, 7.0, 7.1, 7.2, 7.3)
 
-```
+```sh
 ./build set php1_release 5.6
 ./build set php2_release 7.0
 ./build set php3_release 7.1
@@ -28,7 +28,7 @@ Tiếp theo, chạy các lệnh sau đây để thiết lập các phiên bản 
 
 ## **Bước 3 :** Biên dịch lại PHP và viết lại cấu hình
 
-```
+```sh
 ./build set mod_ruid2 no
 ./build php d
 ./build apache d
